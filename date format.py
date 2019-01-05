@@ -1,3 +1,6 @@
+print('Abdul Moiz')
+print('18b-011-CS')
+print('Program for checking dates with respect to given formats')
 date_format=str(input("Enter the date format dd-mm-yy or mm-dd-yy, for dd-mm-yy enter one and for the second one enter second : "))
 if date_format =='one':
     for char in range(11):
